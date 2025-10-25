@@ -1,0 +1,13 @@
+# Ignore logs
+logs/
+*.log
+
+# Ignore crash reports
+crash-reports/
+
+# Ignore user cache
+usercache.json
+
+screenshots/
+
+saves/
